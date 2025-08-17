@@ -2,9 +2,9 @@
   <img src="https://qinformationhub.com/wp-content/uploads/2025/08/LOGO-without-Background-1.png" alt="QHub Logo" width="180"/>
 </p>
 
-<h1 align="center">Quest Information Hub (QHub)</h1>
+<h1 align="center">Quest Information Hub</h1>
 
-<p align="center"><strong>The best way to predict the future is to invent it.</strong></p>
+<p align="center"><strong>Your Quest, Our Solution.</strong></p>
 
 ---
 
@@ -54,8 +54,8 @@ We are currently developing:
 ---
 
 ### 📬 Get in Touch
-- 🌐 [Website](https://qhub.pro)
-- 📧 contact@qhub.pro
+- 🌐 [Website](https://qinformationhub.com)
+- 📧 qinformationhub@gmail.com
 
 ---
 
