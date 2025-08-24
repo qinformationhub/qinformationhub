@@ -14,7 +14,7 @@
 We don’t just write code — we craft ideas into usable solutions.
 
 -  **650+ Projects Shipped**
--  **100+ Trusted Clients Worldwide**
+-  **800+ Trusted Clients Worldwide**
 -  From idea to execution, we own the entire product lifecycle.
 -  Always experimenting. Always evolving.
 
